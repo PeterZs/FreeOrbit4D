@@ -181,9 +181,21 @@ For input requirements, point-prompting tips, and output layout, see [docs/proce
 ```bibtex
 @inproceedings{cao2026freeorbit4d,
   title={{FreeOrbit4D}: Training-free Arbitrary Camera Redirection for Monocular Videos via Foreground-Complete {4D} Reconstruction},
-  author={Cao, Wei and Zhang, Hao and Tian, Fengrui and Wu, Yulun and Li, Yingying and Wang, Shenlong and Yu, Ning and Liu, Yaoyao},
-  booktitle={ACM SIGGRAPH Conference Papers},
-  year={2026}
+  author       = {Wei Cao and
+                  Hao Zhang and
+                  Fengrui Tian and
+                  Yulun Wu and
+                  Yingying Li and
+                  Shenlong Wang and
+                  Ning Yu and
+                  Yaoyao Liu},
+  booktitle    = {Proceedings of the Special Interest Group on Computer Graphics and
+                  Interactive Techniques Conference, {SIGGRAPH} Conference Papers 2026,
+                  Los Angeles, CA, USA, July 19-23, 2026},
+  pages        = {65:1--65:12},
+  publisher    = {{ACM}},
+  year         = {2026},
+  url          = {https://doi.org/10.1145/3799902.3811122}
 }
 ```
 
