@@ -180,7 +180,8 @@ For input requirements, point-prompting tips, and output layout, see [docs/proce
 
 ```bibtex
 @inproceedings{cao2026freeorbit4d,
-  title={{FreeOrbit4D}: Training-free Arbitrary Camera Redirection for Monocular Videos via Foreground-Complete {4D} Reconstruction},
+  title        = {{FreeOrbit4D}: Training-Free Arbitrary Camera Redirection for Monocular
+                  Videos via Foreground-Complete {4D} Reconstruction}
   author       = {Wei Cao and
                   Hao Zhang and
                   Fengrui Tian and
